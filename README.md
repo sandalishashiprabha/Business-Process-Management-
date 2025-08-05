@@ -1,2 +1,2 @@
 # Business-Process-Management-
-Hospital OPD process Modeling and Optimization (group project)
+Hospital OPD Process Modeling and Optimization (group project)
